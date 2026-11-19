@@ -1,3 +1,4 @@
+#https://github.com/zoharnahum/nitur
 import urllib.parse
 import webbrowser
 pic = input("input pic")
